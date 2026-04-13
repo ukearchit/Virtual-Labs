@@ -1,0 +1,5 @@
+{
+  "name": "Virtual Labs: Computer Networks",
+  "description": "An interactive, educational virtual laboratory simulation suite for a Computer Networks course featuring HDLC Bit Stuffing, TCP vs UDP, NAT Traversal, and TCP Congestion Control.",
+  "requestFramePermissions": []
+}
